@@ -1,8 +1,8 @@
-** Resources **
+# Resources 
 
-My AI Prompt - [MarkDown Format](AI-Prompt.md) [Text File Format](AI-Prompt.txt)
+My AI Prompt - [Instructions](Instructions.md) | [MarkDown Format](AI-Prompt.md) | [Text File Format](AI-Prompt.txt)
 
-- US Census
+## US Census
  - [1790 Census](https://www.ancestry.com/search/collections/5058)
  - [1800 Census](https://www.ancestry.com/search/collections/7590)
  - [1810 Census](https://www.ancestry.com/search/collections/7613)
@@ -14,9 +14,12 @@ My AI Prompt - [MarkDown Format](AI-Prompt.md) [Text File Format](AI-Prompt.txt)
  - [1870 Census](https://www.ancestry.com/search/collections/7163)
  - [1880 Census](https://www.ancestry.com/search/collections/6742)
  - [1900 Census](https://www.ancestry.com/search/collections/7602)
- 
-- FamilySearch Resources
+
+## US Government Resources
+  - [BLM GLO Land Search](https://glorecords.blm.gov/s/#patentDetailsTabIndex=1) 
+  
+## FamilySearch Resources
  - [Full Text Search](https://www.familysearch.org/en/search/full-text/)
  - [FamilySearch Catalog](https://www.familysearch.org/en/search/catalog/)
  
-- [BLM GLO Land Search](https://glorecords.blm.gov/s/#patentDetailsTabIndex=1) 
+
