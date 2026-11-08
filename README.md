@@ -15,19 +15,19 @@ My AI Prompt - [Instructions](Instructions.md) | [MarkDown Format](AI-Prompt.md)
  
 | | | |
 | :--- | :--- | :--- |
-| AL | KY | OK |
-| AK | LA | OR |
-| AZ | ME | PA |
-| AR | MD | RI |
-| CA | MA | SC |
-| CO | MI | SD |
+| (AL)[AL.md] | KY | OK |
+| AK          | LA | OR |
+| AZ          | ME | PA |
+| AR          | MD | RI |
+| CA          | MA | SC |
+| CO          | MI | SD |
 | CT | MN | [TN](TN.md) |
-| DE | MS | TX |
-| FL | MO | UT |
-| GA | MT | VT |
-| HI | NE | VA |
-| ID | NV | WA |
-| IL | NH | WV |
-| IN | NJ | WI |
-| IA | NM | WY |
-| KS | NY | |
+| DE          | MS | TX |
+| FL          | MO | UT |
+| GA          | MT | VT |
+| HI | NE | (VA)[VA.md] |
+| ID          | NV | WA |
+| IL          | NH | WV |
+| IN          | NJ | WI |
+| IA          | NM | WY |
+| KS          | NY | |
