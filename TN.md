@@ -1,13 +1,13 @@
-- (Squabble State: TN disputes with NC)[https://www.tngenweb.org/tnland/bamman.htm]
-- (TN County Formation Maps)[https://www.tngenweb.org/maps/county-ani/tn-maps/tn-cf.html]
-- (TN - The Maps Our Ancestors Followed)[https://www.tngenweb.org/maps/census/]
-- (Family Search - State of Franklin Genealogy)[https://www.familysearch.org/en/wiki/State_of_Franklin_Genealogy]
-- (Old Washington County, NC Genealogy)[https://www.familysearch.org/en/wiki/Washington_(old)_County,_North_Carolina_Genealogy]
-- (NC Land Grant Images)[https://www.nclandgrants.com/index/)
-- (TN Census Maps)[https://www.tngenweb.org/maps/census/)
-- (Hawkins County, TN Genealogy)[https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy]
-- (Ancestry - TN State Library and Archives)[https://www.ancestry.com/collections/search/tn/tsla]
-- (TN Online Genealogy Records)[https://www.familysearch.org/en/wiki/Tennessee_Online_Genealogy_Records]
-- (Hawkins County, TN Genealogy and History)[https://tngenweb.org/hawkins/]
-- (Hawkins County, TN Archives)[https://hawkinscountytn.gov/archives.html]
-- (Arlene Eakle's TN Blog)[https://tnblog.arleneeakle.com/)
+- [Squabble State: TN disputes with NC](https://www.tngenweb.org/tnland/bamman.htm)
+- [TN County Formation Maps](https://www.tngenweb.org/maps/county-ani/tn-maps/tn-cf.html)
+- [TN - The Maps Our Ancestors Followed](https://www.tngenweb.org/maps/census/)
+- [Family Search - State of Franklin Genealogy](https://www.familysearch.org/en/wiki/State_of_Franklin_Genealogy)
+- [Old Washington County, NC Genealogy](https://www.familysearch.org/en/wiki/Washington_(old)_County,_North_Carolina_Genealogy)
+- [NC Land Grant Images](https://www.nclandgrants.com/index/)
+- [TN Census Maps](https://www.tngenweb.org/maps/census/)
+- [Hawkins County, TN Genealogy](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy)
+- [Ancestry - TN State Library and Archives](https://www.ancestry.com/collections/search/tn/tsla)
+- [TN Online Genealogy Records](https://www.familysearch.org/en/wiki/Tennessee_Online_Genealogy_Records)
+- [Hawkins County, TN Genealogy and History](https://tngenweb.org/hawkins/)
+- [Hawkins County, TN Archives](https://hawkinscountytn.gov/archives.html)
+- [Arlene Eakle's TN Blog](https://tnblog.arleneeakle.com/)
