@@ -11,3 +11,6 @@
 - [Hawkins County, TN Genealogy and History](https://tngenweb.org/hawkins/)
 - [Hawkins County, TN Archives](https://hawkinscountytn.gov/archives.html)
 - [Arlene Eakle's TN Blog](https://tnblog.arleneeakle.com/)
+- [McMinn County, TN Court Minutes 1820-1872](https://www.mcminntnhistorical.org/court-minutes-1820-72)
+- [McMinn County, TN Grant Books](https://www.mcminntnhistorical.org/grant-book-a-1
+)
