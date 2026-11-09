@@ -15,7 +15,7 @@ My AI Prompt - [Instructions](Instructions.md) | [MarkDown Format](AI-Prompt.md)
  
 | | | |
 | :--- | :--- | :--- |
-| (AL)[AL.md] | KY | OK |
+| [AL](AL.md) | KY | OK |
 | AK          | LA | OR |
 | AZ          | ME | PA |
 | AR          | MD | RI |
@@ -25,7 +25,7 @@ My AI Prompt - [Instructions](Instructions.md) | [MarkDown Format](AI-Prompt.md)
 | DE          | MS | TX |
 | FL | [MO](MO.md) | UT |
 | GA          | MT | VT |
-| HI | NE | (VA)[VA.md] |
+| HI | NE | [VA](VA.md) |
 | ID          | NV | WA |
 | IL          | NH | WV |
 | IN          | NJ | WI |
