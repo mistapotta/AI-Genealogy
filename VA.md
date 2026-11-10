@@ -16,6 +16,11 @@
 - Fincastle Co. VA
   - [History of Fincastle Co. VA](http://genealogytrails.com/vir/fincastle/county_history_2.html)
   - [LVA Fincastle Co. Microfilm](https://www.lva.virginia.gov/collections/ccmf/VA/VA087)
+- Scott Co. VA
+  - [Scott Co. VA Court Records, 1782-1951](https://search.arvasarchive.org/catalog/vi_vi02759)
+  - [Scott Co. VA Marriage Records](https://mail.ldsgenealogy.com/VA/Scott-County-Marriage-Records.htm)
+  - [Marriage Register adn Bonds, 1815-1963](https://www.familysearch.org/en/search/catalog/koha:269689)
 - Washington Co. VA
+  - [Birth and Death Registers 1853-1892, Marriage Registers 1785-1902](https://www.familysearch.org/en/search/catalog/koha:473027)
   - [Washington Co. VA Marriage Records](http://genealogytrails.com/vir/washington/marriages.html)
   - [Washington Co. VA Marriage Register](https://www.familysearch.org/ark:/61903/3:1:3QS7-89XL-8VSV?lang=en&i=346&cc=4149585&groupId=4149585)

@@ -4,6 +4,7 @@
 - [Family Search - State of Franklin Genealogy](https://www.familysearch.org/en/wiki/State_of_Franklin_Genealogy)
 - [Old Washington County, NC Genealogy](https://www.familysearch.org/en/wiki/Washington_(old)_County,_North_Carolina_Genealogy)
 - [NC Land Grant Images](https://www.nclandgrants.com/index/)
+- [TN, US Early Land Registers, 1778-1927](https://www.ancestry.com/search/collections/3658)
 - [TN Census Maps](https://www.tngenweb.org/maps/census/)
 - [Ancestry - TN State Library and Archives](https://www.ancestry.com/collections/search/tn/tsla)
 - [TN Online Genealogy Records](https://www.familysearch.org/en/wiki/Tennessee_Online_Genealogy_Records)
@@ -11,7 +12,8 @@
 
 )
 - Giles Co.
-  - [Giles Co. TN 1836 Tax List, District 1](https://www.tngenweb.org/gilestn/tax/1836/1836-01.html)
+  - [Giles Co. TN 1812 Tax Lists](https://tngenweb.org/gilestn/tax/1812/index.html)
+  - [Giles Co. TN 1836 Tax Lists](https://www.tngenweb.org/gilestn/tax/1836/)
 - Hawkins Co.
   - [Hawkins Co., TN Genealogy and History](https://tngenweb.org/hawkins/)
   - [Hawkins Co., TN Archives](https://hawkinscountytn.gov/archives.html)
@@ -19,4 +21,4 @@
   - [Hawkins Co. TN Marriages and Wills](https://archive.org/details/hawkinscountyten00mcgh)
 - McMinn Co.,
   - [McMinn County, TN Court Minutes 1820-1872](https://www.mcminntnhistorical.org/court-minutes-1820-72)
-  - [McMinn County, TN Grant Books](https://www.mcminntnhistorical.org/grant-book-a-1
+  - [McMinn County, TN Grant Books](https://www.mcminntnhistorical.org/grant-book-a-1)
