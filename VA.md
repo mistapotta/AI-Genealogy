@@ -6,8 +6,8 @@
 - [Annals of Southwest VA, 1769-1800, Part 2, by Lewis Preston Summers](https://babel.hathitrust.org/cgi/pt?id=uva.x000213458&seq=7)
 
 - Bruswick Co. VA
--- [Marriage Bonds and Minister Returns of Brunswick Co. VA](https://archive.org/details/marriagebondsmin00knor_1
+  - [Marriage Bonds and Minister Returns of Brunswick Co. VA](https://archive.org/details/marriagebondsmin00knor_1
 - Charlotte Co. VA
--- [Marriage Bonds and Minister Returns of Charlotte Co. VA 1764-1815](https://accessgenealogy.com/wp-content/uploads/2024/06/Marriages-of-Charlotte-County-Virginia-1784-1815.pdf)
+  - [Marriage Bonds and Minister Returns of Charlotte Co. VA 1764-1815](https://accessgenealogy.com/wp-content/uploads/2024/06/Marriages-of-Charlotte-County-Virginia-1784-1815.pdf)
 - Washington Co. VA
--- [Washington Co. VA Marriage Records](http://genealogytrails.com/vir/washington/marriages.html)
+  - [Washington Co. VA Marriage Records](http://genealogytrails.com/vir/washington/marriages.html)
