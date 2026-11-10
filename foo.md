@@ -1,53 +1,7 @@
-# Research links found across the Potter theater work
 
-Compiled 2026-11-08 from the nine living theater briefs, the Monday primary-source pick log, and the genealogy work files (`~/workspace/goals/potter-family-genealogy-research/files/` and `~/workspace/genealogy-assistant/`).
-
-**175 unique links.** Each link is listed once, under the theater where it first appears; other theaters that cite the same link are noted. Labels are the words around the link in the source file, trimmed — they are working labels, not verified titles. DGS numbers, film numbers and catalog IDs in the briefs are cited as numbers, not links, so they do not appear here; the FamilySearch catalog links below resolve some of them.
-
-Buckets: **Research sources** = archives, catalogs, databases, societies and search portals. **Record links** = specific record images and collection records. **Profile & page links** = WikiTree, Find a Grave and Ancestry person pages.
-
-## Holston (13)
-
-### Research sources
-
-- [http://genealogytrails.com/vir/washington/marriages1.html](http://genealogytrails.com/vir/washington/marriages1.html) — Citation: Genealogy Trails, "Marriage Records in Washington County, VA," (accessed 22 Sept. 2026). *(from nathaniel-potter-marriage-bond-research-2026-09-22.md)*
-- [https://babel.hathitrust.org/cgi/pt?id=uiug.30112041642718&seq=11](https://babel.hathitrust.org/cgi/pt?id=uiug.30112041642718&seq=11) — Lewis Preston Summers, *Annals of Southwest Virginia, 1769–1800* (Abingdon, VA: the author, 1929), includes a Washington County "marriage licenses" section. Ful *(from nathaniel-potter-marriage-bond-research-2026-09-22.md)*
-- [https://babel.hathitrust.org/cgi/pt?id=uva.x000213458&seq=7](https://babel.hathitrust.org/cgi/pt?id=uva.x000213458&seq=7) — Lewis Preston Summers, *Annals of Southwest Virginia, 1769–1800* (Abingdon, VA: the author, 1929), includes a Washington County "marriage licenses" section. Ful *(from nathaniel-potter-marriage-bond-research-2026-09-22.md)*
-- [https://www.lva.virginia.gov/collections/ccmf/VA/VA285](https://www.lva.virginia.gov/collections/ccmf/VA/VA285) — Library of Virginia microfilm, Washington County (), "Marriage Records and Vital Statistics": Reel 31, Marriage Register 1, 1785–1902, A–H (unpaid index, fo. 1– *(from nathaniel-potter-marriage-bond-research-2026-09-22.md)*
-- [http://www.rcasey.net/acrobat/pac0203c.pdf](http://www.rcasey.net/acrobat/pac0203c.pdf) — Casey, *Pace Family History* (in *Shelton, Pace and Wininger Families*, 1988), pp. 5-16–5-19: "The only primary evidence that shows the children of William Pace *(from four-track-sweep-2026-09-22.md)* — also in: Pace & Wininger
-- [http://genealogytrails.com/vir/washington/marriages.html](http://genealogytrails.com/vir/washington/marriages.html) — URL: *(from elijah-potter-martha-catlin-washington-hawkins-sweep-2026-09-28.md)*
 - [http://usgwarchives.net/marriages/tennessee/hawkins.htm](http://usgwarchives.net/marriages/tennessee/hawkins.htm) — USGenWeb Archives Hawkins marriage index: *(from elijah-potter-martha-catlin-washington-hawkins-sweep-2026-09-28.md)*
-- [https://archive.org/details/hawkinscountyten00mcgh](https://archive.org/details/hawkinscountyten00mcgh) — Internet Archive: Lucy Kate McGhee, "Hawkins County, Tennessee, marriages and wills" (includes 1797–1886) — — full-text searchable on archive.org; search inside *(from elijah-potter-martha-catlin-washington-hawkins-sweep-2026-09-28.md)*
-- [http://www.rcasey.net/acrobat/win0503p.pdf](http://www.rcasey.net/acrobat/win0503p.pdf) — Casey *Wininger Family History* full text: (John & Catherine §30.12 pp. 6-305–6-310; Andrew & Catrin §30.11 pp. 6-284–6-290; Solomon W. Wininger §32.3 pp. 6-69– *(from wininger-winegar-opossum-creek-sweep-2026-09-28.md)* — also in: Pace & Wininger
-- [https://www.algenweb.org/choctaw/oldbarrytown_cem.html](https://www.algenweb.org/choctaw/oldbarrytown_cem.html) — <ref name="algenwebbarrytown">ALGenWeb, Choctaw County, "Old Barrytown Cemetery" transcription (): "Robert E. Potter, b. Jan. 24, 1777 in Granville County, N.C. *(from robert-d-e-potter-alabama-ancillary-2026-10-02.md)*
-- [https://alabamamaps.ua.edu/cemetery/text/Choctaw.pdf](https://alabamamaps.ua.edu/cemetery/text/Choctaw.pdf) — <ref name="uapdf">University of Alabama, Alabama Maps, "Cemeteries of Choctaw County" (), p. 6, "Cemeteries of Uncertain Location (Continued)": "Old Barrytown — *(from robert-d-e-potter-alabama-ancillary-2026-10-02.md)*
-- [https://www.fold3.com/file/27198202/potter-william-us-revolutionary-war-pensions-1800-1900](https://www.fold3.com/file/27198202/potter-william-us-revolutionary-war-pensions-1800-1900) — For Tony's manual check: the file is at — opening it on his own phone/PC and clicking the Cloudflare checkbox once clears the block (per the alignment note, he  *(from rev-war-southern-potters-file-reads-2026-10-11.md)*
-
-### Record links
-
-- [https://www.familysearch.org/ark:/61903/3:1:3QS7-99XL-8K8D?view=index](https://www.familysearch.org/ark:/61903/3:1:3QS7-99XL-8K8D?view=index) — User browsed the original Washington County marriage registers (DGS 7579179) and pulled image 474 of 656 (register pp. 357–358) via FamilySearch full-text trans *(from nathaniel-potter-marriage-bond-research-2026-09-22.md)*
 
 
-## Jackson (10)
-
-### Research sources
-
-- [https://www.sos.alabama.gov/government-records/land-records](https://www.sos.alabama.gov/government-records/land-records) — AL Secretary of State Land Records — name-index clean negative, full variant cloud (checked live 2026-10-19): the SOS "Government Records Inquiry System" () ind *(from jackson-theater-brief.md)*
-- [https://archive.org/details/marriagebondsmin00knor_1](https://archive.org/details/marriagebondsmin00knor_1) — [x] Knorr, *Marriage Bonds and Ministers' Returns of Brunswick County, Virginia, 1750–1810* — RESOLVED 2026-09-23: found digitized on the Internet Archive (iden *(from blocked-research-checklist-2026-09-23.md)*
-- [https://glorecords.blm.gov/](https://glorecords.blm.gov/) — Reproducible path: → Search Documents → document *(from DOC-29093-notes.md)*
-- [https://www.newspapers.com/image/320840278/](https://www.newspapers.com/image/320840278/) — ''The Scottsboro Citizen'', 10 February 1898, p. 3, reported that "Mr. and Mrs. Jonathan Potter, of Maynard's Cove, have been married sixty five years, and are  *(from eliza-pace-marriage-date-research-note-2026-09-27.md)*
-
-### Record links
-
-- [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91W-PQF8-L](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91W-PQF8-L) — Link: — image 279 of 661, Jackson Co. AL Wills 1855–1858, 1865–1866 (Film 007736921). Filed: records/1858-jackson-co-al-probate/1854-01-12-james-m-holland-estat *(from jonathan-potter-census-obituary-analysis-2026-09-22.md)*
-- [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91W-PQN9-F](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91W-PQN9-F) — Verified deep link (user-supplied, do not lose): *(from elijah-1805-evidence-audit-2026-09-26.md)* — also in: Pace & Wininger
-- [https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91W-PQFR-Q](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C91W-PQFR-Q) — Verified deep link: — image 206 of 661, same film (007736921). Filed: records/1858-jackson-co-al-probate/1858-08-14-jonathan-potter-guardianship-decree-image206 *(from elijah-1805-evidence-audit-2026-09-26.md)*
-- [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSL6-WQMK-Q](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSL6-WQMK-Q) — 7. Jackson County, Alabama, deed, Joseph Patter & wife Elizabeth Patter to William Cornelison, 29 January 1840: E½NW Sec. 23, T3S R5E (Joseph's 1833 patent trac *(from joseph-potter-17024-draft-2026-09-25.md)*
-
-### Profile & page links
-
-- [https://www.wikitree.com/wiki/Space:Potters_of_the_Holston_and_Tennessee_River_Valley](https://www.wikitree.com/wiki/Space:Potters_of_the_Holston_and_Tennessee_River_Valley) *(from gedmatch-comparisons-vs-TX2389277-2026-09-28.md)* — also in: Pace & Wininger
-- [https://www.wikitree.com/wiki/Potter-11722](https://www.wikitree.com/wiki/Potter-11722) — WikiTree, Jonathan Walton Potter (Potter-11722) — re-opened 25 Oct 2026: biography, Research Notes, Parentage Research (§§ W. Arthur Potter's Genealogy; Solomon *(from jonathan-walton-potter-parentage-research-question-2026-10-25.md)*
 
 
 ## McMinn (17)
@@ -83,36 +37,12 @@ Buckets: **Research sources** = archives, catalogs, databases, societies and sea
 - [http://tngenweb.org/gilestn/tax/1812/index.html](http://tngenweb.org/gilestn/tax/1812/index.html) — Source:* TNGenWeb, "1812 Tax List Transcriptions, Giles County, Tennessee," transcribed by Joyce McDonald and Carole Hammett from the clerk's copy. https://TnGe *(from john-potter-sweep-2026-09-24.md)*
 - [https://usgenealogyresearch.atwebpages.com/Missouri/Hickory/misc_white_settlement_hickory_county.pdf](https://usgenealogyresearch.atwebpages.com/Missouri/Hickory/misc_white_settlement_hickory_county.pdf) — Source:* *History of Hickory County, Missouri* (1889), pp. 215–216, citing "ancient church records." *(from john-potter-sweep-2026-09-24.md)*
 - [https://www.tngenweb.org/gilestn/tax/1836/1836-01.html](https://www.tngenweb.org/gilestn/tax/1836/1836-01.html) — TNGenWeb, 1836 Giles County tax list by district, Districts 01–17 ( through 1836-17.html); Districts 18+ do not exist (404). *(from giles-tax-trace-2026-09-24.md)*
-- [https://s1.sos.mo.gov/Records/Archives/ResearchRequest/](https://s1.sos.mo.gov/Records/Archives/ResearchRequest/) — Online request form: — also email archref@sos.mo.gov, phone (573) 751-4936, 600 W Main St, Jefferson City, MO 65101. *(from msa-lookup-request-joel-potter-deeds-draft-2026-10-23.md)*
-- [https://www.sos.mo.gov/images/archives/countyrecords/Pulaski/C36680_Pulaski_Recorder_Deeds_%20b47_p{A-B}.pdf](https://www.sos.mo.gov/images/archives/countyrecords/Pulaski/C36680_Pulaski_Recorder_Deeds_%20b47_p{A-B}.pdf) — (URL pattern: ) *(from vol47-scan-notes.md)*
+
+
 - [http://rcasey.net/pace/pacevans.htm](http://rcasey.net/pace/pacevans.htm) — O'Dowd family group sheet, ca. 1990 — derivative, and wrong on Joel's parentage (2026-09-25). Robert Casey's *Pace Family History* () cites "Family Group Sheet  *(from joel-potter-6891-draft-2026-09-25.md)* — also in: Cross-theater / general
 
-### Profile & page links
-
-- [https://www.wikitree.com/wiki/Potter-5560](https://www.wikitree.com/wiki/Potter-5560) — WikiTree, John Potter (1780–1848), Potter-5560. (accessed 2026-09-24) *(from john-potter-sweep-2026-09-24.md)*
-- [https://www.wikitree.com/wiki/Potter-17391:**](https://www.wikitree.com/wiki/Potter-17391:**) — 863 follow-up — Sources section VERIFIED LIVE on https://www.wikitree.com/wiki/Potter-17391: exactly eight numbered footnotes render under the Sources heading,  *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Potter-6885](https://www.wikitree.com/wiki/Potter-6885) — C1 — Hint 575, William Potter Potter-6885 *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Potter-4123](https://www.wikitree.com/wiki/Potter-4123) — C2 — Hint 591, Possible father of William Potter: Thomas William Potter Potter-4123 *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Ferguson-19805](https://www.wikitree.com/wiki/Ferguson-19805) — C3 — Hint 593, Possible spouse of William Potter: Temperance (Ferguson) Potter Ferguson-19805 *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Harris-80798](https://www.wikitree.com/wiki/Harris-80798) — C5 — Hint 575, Samuel Alfred Harris Harris-80798 *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Stevens-15641](https://www.wikitree.com/wiki/Stevens-15641) — C6 — Hint 575, Mary Ann (Stevens) Baker Stevens-15641 *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Morgan-30295](https://www.wikitree.com/wiki/Morgan-30295) — C7 — Hint 575, Hattie May Morgan Morgan-30295 *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Potter-19816](https://www.wikitree.com/wiki/Potter-19816) — C8 — Error 305, Mother too young: Thomas Potter Potter-19816, mother Diana (Allsup) Potter Allsup-39 *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Allsup-39](https://www.wikitree.com/wiki/Allsup-39) — C8 — Error 305, Mother too young: Thomas Potter Potter-19816, mother Diana (Allsup) Potter Allsup-39 *(from wikitree-plus-easy-batch-fixes-2026-10-21.md)*
-- [https://www.findagrave.com/memorial/198179512/joel_lee-potter](https://www.findagrave.com/memorial/198179512/joel_lee-potter) — Death and burial — 1855 (derivative), Mount Ararat Cemetery. Find a Grave Memorial #198179512 gives Joel Lee Potter (1800–1855): born 1800 in Hickman County, Te *(from joel-potter-6891-draft-2026-09-25.md)* — also in: Cross-theater / general
-- [https://www.findagrave.com/memorial/45269575/mary_elizabeth-potter](https://www.findagrave.com/memorial/45269575/mary_elizabeth-potter) — 13. Find a Grave, Memorial #45269575, Mary Elizabeth "Polly" Bellamy Potter (16 Oct 1801 – 25 Apr 1884), Mount Ararat Cemetery, Topaz, Douglas County, Missouri, *(from joel-potter-6891-draft-2026-09-25.md)*
 
 
-## General Virginia (6)
-
-### Research sources
-
-- [https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=075-1771-005](https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=075-1771-005) — Goochland chancery — coverage + one Potter-mention hit (2026-10-16): LVA Chancery Records Index (old.lva.virginia.gov/chancery/) covers Goochland 1731–1924 with *(from virginia-theater-brief.md)*
-- [https://ead.lib.virginia.edu/vivaxtf/view?docId=lva/vi01239.xml](https://ead.lib.virginia.edu/vivaxtf/view?docId=lva/vi01239.xml) — 1770 | Botetourt | List survives but could not be accessed | LVA coll. 1114718–1114719, *Botetourt County (Va.) Tithables, 1770–1790* (photostats of tithable he *(from pre-1782-holston-tithables-sweep-2026-09-23.md)*
-- [https://ead.lib.virginia.edu/vivaxtf/view?docId=lva/vi04148.xml](https://ead.lib.virginia.edu/vivaxtf/view?docId=lva/vi04148.xml) — 1771 | Botetourt | List survives but could not be accessed | LVA coll. 1188243, *Botetourt County (Va.) Tithables, 1771* — original list by William Christian (t *(from pre-1782-holston-tithables-sweep-2026-09-23.md)*
-- [http://genealogytrails.com/vir/fincastle/county_history_2.html](http://genealogytrails.com/vir/fincastle/county_history_2.html) — Thomas Potter — Witten's Fort garrison list, Fincastle County, fall 1774 (Dunmore's War): "Thomas Potter 5th. Sept. went away without leave 7th. Oct. came back. *(from pre-1782-holston-tithables-sweep-2026-09-23.md)*
-- [https://www.lva.virginia.gov/collections/ccmf/VA/VA087](https://www.lva.virginia.gov/collections/ccmf/VA/VA087) — Library of Virginia, "Fincastle County Microfilm" (County formed 1772 from Botetourt), : accessed 28 Sep 2026. *(from fincastle-co-holdings-inventory-2026-09-28.md)*
-- [https://www.genealogytrails.com/vir/revolutionary_soldiers.html](https://www.genealogytrails.com/vir/revolutionary_soldiers.html) — by Genealogy Trails (): *(from thomas-allsop-service-search-note-2026-10-27.md)*
 
 
 ## Puckett (16)

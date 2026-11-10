@@ -4,10 +4,18 @@
 - [LVA Chancery Records Index](https://old.lva.virginia.gov/chancery/)
 - [Annals of Southwest VA, 1769-1800, by Lewis Preston Summers](https://babel.hathitrust.org/cgi/pt?id=uiug.30112041642718&seq=11) 
 - [Annals of Southwest VA, 1769-1800, Part 2, by Lewis Preston Summers](https://babel.hathitrust.org/cgi/pt?id=uva.x000213458&seq=7)
+- [Virginia Revolutionary Soldiers](https://www.genealogytrails.com/vir/revolutionary_soldiers.html)
 
-- Bruswick Co. VA
-  - [Marriage Bonds and Minister Returns of Brunswick Co. VA](https://archive.org/details/marriagebondsmin00knor_1
+- Botetourt Co. VA
+  - [Botetourt Co. VA Tithables, 1770-1790](https://search.arvasarchive.org/catalog/vi_vi01239)
+  - [Botetourt Co. VA Tithables, 1771](https://search.arvasarchive.org/catalog/vi_vi04148)
+- Brunswick Co. VA
+  - [Marriage Bonds and Minister Returns of Brunswick Co. VA](https://archive.org/details/marriagebondsmin00knor_1)
 - Charlotte Co. VA
   - [Marriage Bonds and Minister Returns of Charlotte Co. VA 1764-1815](https://accessgenealogy.com/wp-content/uploads/2024/06/Marriages-of-Charlotte-County-Virginia-1784-1815.pdf)
+- Fincastle Co. VA
+  - [History of Fincastle Co. VA](http://genealogytrails.com/vir/fincastle/county_history_2.html)
+  - [LVA Fincastle Co. Microfilm](https://www.lva.virginia.gov/collections/ccmf/VA/VA087)
 - Washington Co. VA
   - [Washington Co. VA Marriage Records](http://genealogytrails.com/vir/washington/marriages.html)
+  - [Washington Co. VA Marriage Register](https://www.familysearch.org/ark:/61903/3:1:3QS7-89XL-8VSV?lang=en&i=346&cc=4149585&groupId=4149585)

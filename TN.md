@@ -5,12 +5,18 @@
 - [Old Washington County, NC Genealogy](https://www.familysearch.org/en/wiki/Washington_(old)_County,_North_Carolina_Genealogy)
 - [NC Land Grant Images](https://www.nclandgrants.com/index/)
 - [TN Census Maps](https://www.tngenweb.org/maps/census/)
-- [Hawkins County, TN Genealogy](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy)
 - [Ancestry - TN State Library and Archives](https://www.ancestry.com/collections/search/tn/tsla)
 - [TN Online Genealogy Records](https://www.familysearch.org/en/wiki/Tennessee_Online_Genealogy_Records)
-- [Hawkins County, TN Genealogy and History](https://tngenweb.org/hawkins/)
-- [Hawkins County, TN Archives](https://hawkinscountytn.gov/archives.html)
 - [Arlene Eakle's TN Blog](https://tnblog.arleneeakle.com/)
-- [McMinn County, TN Court Minutes 1820-1872](https://www.mcminntnhistorical.org/court-minutes-1820-72)
-- [McMinn County, TN Grant Books](https://www.mcminntnhistorical.org/grant-book-a-1
+
 )
+- Giles Co.
+  - [Giles Co. TN 1836 Tax List, District 1](https://www.tngenweb.org/gilestn/tax/1836/1836-01.html)
+- Hawkins Co.
+  - [Hawkins Co., TN Genealogy and History](https://tngenweb.org/hawkins/)
+  - [Hawkins Co., TN Archives](https://hawkinscountytn.gov/archives.html)
+  - [Hawkins Co., TN Genealogy](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy)
+  - [Hawkins Co. TN Marriages and Wills](https://archive.org/details/hawkinscountyten00mcgh)
+- McMinn Co.,
+  - [McMinn County, TN Court Minutes 1820-1872](https://www.mcminntnhistorical.org/court-minutes-1820-72)
+  - [McMinn County, TN Grant Books](https://www.mcminntnhistorical.org/grant-book-a-1
