@@ -6,6 +6,7 @@
 - [NC Land Grant Images](https://www.nclandgrants.com/index/)
 - [TN, US Early Land Registers, 1778-1927](https://www.ancestry.com/search/collections/3658)
 - [TN Census Maps](https://www.tngenweb.org/maps/census/)
+- [Population Schedules of the fourth census of the United States, 1820, TN](https://archive.org/details/populationsc18200124unit/page/n2/mode/2up)
 - [Ancestry - TN State Library and Archives](https://www.ancestry.com/collections/search/tn/tsla)
 - [TN Online Genealogy Records](https://www.familysearch.org/en/wiki/Tennessee_Online_Genealogy_Records)
 - [Arlene Eakle's TN Blog](https://tnblog.arleneeakle.com/)

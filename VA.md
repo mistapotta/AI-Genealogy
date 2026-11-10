@@ -19,7 +19,8 @@
 - Scott Co. VA
   - [Scott Co. VA Court Records, 1782-1951](https://search.arvasarchive.org/catalog/vi_vi02759)
   - [Scott Co. VA Marriage Records](https://mail.ldsgenealogy.com/VA/Scott-County-Marriage-Records.htm)
-  - [Marriage Register adn Bonds, 1815-1963](https://www.familysearch.org/en/search/catalog/koha:269689)
+  - [Scott Co. VA Marriage Book 1, 1815-1853](https://www.familysearch.org/ark:/61903/3:1:3QHV-F3ZB-R9CB-Q?lang=en&i=533)
+  - [Marriage Register and Bonds, 1815-1963](https://www.familysearch.org/en/search/catalog/koha:269689)
 - Washington Co. VA
   - [Birth and Death Registers 1853-1892, Marriage Registers 1785-1902](https://www.familysearch.org/en/search/catalog/koha:473027)
   - [Washington Co. VA Marriage Records](http://genealogytrails.com/vir/washington/marriages.html)

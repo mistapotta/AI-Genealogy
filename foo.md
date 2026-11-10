@@ -36,52 +36,6 @@
 
 ### Profile & page links
 
-- [https://www.wikitree.com](https://www.wikitree.com) — 3. WikiTree ( : accessed 28–29 September 2026), "Potters of the Holston and Tennessee River Valley" free-space page and the DNA Connections sections of the prof *(from dna-evidence-gedmatch-vs-TX2389277-2026-09-29.md)*
-- [https://www.wikitree.com/wiki/Smith-192288](https://www.wikitree.com/wiki/Smith-192288) — [ ] John Smith — Smith-192288 — 1786–1840 — Gen 6 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Smith-90931](https://www.wikitree.com/wiki/Smith-90931) — [ ] William Elijah Smith — Smith-90931 — 1784–1859 — Gen 6 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Smith-90974](https://www.wikitree.com/wiki/Smith-90974) — [ ] Kezziah Smith — Smith-90974 — b. 1787 — Gen 6 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Smith-192289](https://www.wikitree.com/wiki/Smith-192289) — [ ] Anna Smith — Smith-192289 — 1806–1898 — Gen 7 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Smith-192296](https://www.wikitree.com/wiki/Smith-192296) — [ ] Rosannah Smith — Smith-192296 — b. 1812 — Gen 7 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/McMichael-81](https://www.wikitree.com/wiki/McMichael-81) — [ ] Sarah Belle McMichael — McMichael-81 — 1787–1867 — Gen 6 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/McMichael-82](https://www.wikitree.com/wiki/McMichael-82) — [ ] Robert McMichael — McMichael-82 — Gen 7 (Sarah Belle's father — the line is orphaned two generations running) *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Lyon-824](https://www.wikitree.com/wiki/Lyon-824) — [ ] Margaret Lyon — Lyon-824 — 1750–1814 — Gen 7 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Weaver-4802](https://www.wikitree.com/wiki/Weaver-4802) — [ ] Mary Weaver — Weaver-4802 — 1749–1810 — Gen 7 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Malek-5](https://www.wikitree.com/wiki/Malek-5) — [ ] Mary (Malek) Vnoucek — Malek-5 — 1835–1909 — Gen 5 (mother of Katerina Vnoucek; Tony's 3rd-great-grandmother on the Studler line) *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Welch-5923](https://www.wikitree.com/wiki/Welch-5923) — [ ] Mary Ann Welch — Welch-5923 — 1824–1892 — Gen 5 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Mahoney-1289](https://www.wikitree.com/wiki/Mahoney-1289) — [ ] Dennis Mahoney — Mahoney-1289 — b. 1770 — Gen 7 *(from wikitree-adoption-checklist-2026-10-21.md)*
-- [https://www.wikitree.com/wiki/Space:Puritan_Potters_of_Massachusetts_Bay|Massachusetts](https://www.wikitree.com/wiki/Space:Puritan_Potters_of_Massachusetts_Bay|Massachusetts) — colspan="2" style="padding:0; line-height:0;" | [[image:FILE1|471px|link= Bay Colony]] *(from wikitext.md)*
-- [https://www.wikitree.com/wiki/Space:Potters_of_the_Tudor_Period|England](https://www.wikitree.com/wiki/Space:Potters_of_the_Tudor_Period|England) — rowspan="3" style="padding:0; line-height:0;" | [[image:FILE6|474px|link= & Great Britain — Potters of the Tudor Period]] *(from wikitext.md)*
-- [https://www.wikitree.com/wiki/Space:Puritan_Potters_of_New_Haven|New](https://www.wikitree.com/wiki/Space:Puritan_Potters_of_New_Haven|New) — rowspan="2" style="padding:0; line-height:0;" | [[image:FILE2|160px|link= Haven Colony]] *(from wikitext.md)*
-- [https://www.wikitree.com/wiki/Space:Puritan_Potters_of_Rhode_Island|Rhode](https://www.wikitree.com/wiki/Space:Puritan_Potters_of_Rhode_Island|Rhode) — style="padding:0; line-height:0;" | [[image:FILE3|311px|link= Island Colony]] *(from wikitext.md)*
-- [https://www.wikitree.com/wiki/Space:](https://www.wikitree.com/wiki/Space:) — link= throughout (all four *(from wikitext.md)*
-- [https://www.wikitree.com/wiki/Space:American_Potter_Name_Profile](https://www.wikitree.com/wiki/Space:American_Potter_Name_Profile) — (link=) — *(from wikitext.md)*
-- [https://www.wikitree.com/wiki/Space:American_Potter_Name_Profile|The](https://www.wikitree.com/wiki/Space:American_Potter_Name_Profile|The) — rowspan="3" style="padding:0; line-height:0;" | [[image:American Potter Name Profile-11.png|390px|link= Atlantic]] *(from wikitext-v6-paste-ready.md)*
-- [https://www.wikitree.com/wiki/Space:American_Potter_Name_Profile|Long](https://www.wikitree.com/wiki/Space:American_Potter_Name_Profile|Long) — colspan="2" style="padding:0; line-height:0;" | [[image:American Potter Name Profile-10.png|570px|link= Island and the southern waters]] *(from wikitext-v6-paste-ready.md)*
-
-
-## Bellamy & Evans (4)
-
-### Research sources
-
-- [http://www.rcasey.net/pace/pacbelmy.htm](http://www.rcasey.net/pace/pacbelmy.htm) — (read 2026-09-23). Casey cites Scott Co VA *(from bellamy-holston-corridor-2026-09-23.md)*
-- [https://archive.org/details/populationsc18200124unit](https://archive.org/details/populationsc18200124unit) — Digital copy: Internet Archive identifier populationsc18200124unit (), local working copy /tmp/giles1820.pdf (~202 images, ~85 MB). *(from 1820-giles-census-potter-2026-09-24.md)*
-- [https://www.sos.mo.gov/images/archives/countyrecords/Pulaski/C36682_Pulaski_Recorder_Deeds_%20b51_p{A-B}.pdf](https://www.sos.mo.gov/images/archives/countyrecords/Pulaski/C36682_Pulaski_Recorder_Deeds_%20b51_p{A-B}.pdf) — (URL pattern: ) *(from vol51-scan-notes.md)*
-
-### Record links
-
-- [https://www.familysearch.org/ark:/61903/3:1:3QHV-F3ZB-R9CB-Q?cat=762754](https://www.familysearch.org/ark:/61903/3:1:3QHV-F3ZB-R9CB-Q?cat=762754) — Compiled 2026-09-30. Source: Phyllis Louise Peterson, *Scott County Virginia Marriage Book 1, 1815–1853* (return images pp. 1–145, index pp. 191–210, old-marria *(from scott-co-va-fan-marriages-wood-bynum-osborn-2026-09-30.md)*
-
-
-## DNA (8)
-
-### Research sources
-
-- [https://www.familytreedna.com/public/potter?iframe=ysnp](https://www.familytreedna.com/public/potter?iframe=ysnp) — SNP results: *(from nathaniel-potter-male-line-research-2026-09-23.md)*
-- [https://www.familytreedna.com/public/potter?iframe=ycolorized](https://www.familytreedna.com/public/potter?iframe=ycolorized) — STR overview: *(from nathaniel-potter-male-line-research-2026-09-23.md)*
-- [http://genealogytrails.com/ind/decatur/bios3.html](http://genealogytrails.com/ind/decatur/bios3.html) — Secondary source found 2026-09-23: "A Genealogical and Biographical Record of Decatur County, Indiana" (Lewis Publishing Co., Chicago, 1900), biography of James *(from nathaniel-potter-male-line-research-2026-09-23.md)*
-- [https://content.mymcpl.org/files/original/362939d9f2fca7f0d5cd0a14687d2bb262334329.pdf](https://content.mymcpl.org/files/original/362939d9f2fca7f0d5cd0a14687d2bb262334329.pdf) — Research resource: Mid-Continent Public Library, Griswold Family Papers, Series 39 (Potter Family), Joyce Kindred Collection — finding aid lists Folder 19 "Nath *(from nathaniel-potter-male-line-research-2026-09-23.md)*
-- [https://www.familytreedna.com/public/potter?iframe=ydna-results-overview](https://www.familytreedna.com/public/potter?iframe=ydna-results-overview) — Source: public Potter Y-DNA results table, (read-only, no sign-in). *(from ftdna-potter-project-rhode-island-scan-2026-09-28.md)*
-
 
 
 
